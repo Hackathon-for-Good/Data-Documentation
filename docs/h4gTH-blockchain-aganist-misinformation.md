@@ -1,5 +1,5 @@
 # Challenge: 
-How can we help Royal Netherlands Army to safeguard trust within its own ranks and within the broader defense system (government – army – people) and our Allies by using blockchain methodology by the populace (producers) when identifying and debunking desinformation (with regards to security policies, grand strategy and military information) instead of spreading more desinformation?
+How can we help <ins>Royal Netherlands Army</ins> to safeguard trust within its own ranks and within the broader defense system (government – army – people) and our Allies by using blockchain methodology by the populace (producers) when identifying and debunking desinformation (with regards to security policies, grand strategy and military information) instead of spreading more desinformation?
 
 
 ## Can you detect and label the fake messages in the following? 
