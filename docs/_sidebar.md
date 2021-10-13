@@ -12,7 +12,7 @@
   - [Circular greenhouse economy](h4gTH-circular-greenhouse-economy.md)
   - [Food waste](h4gTH-food-waste.md)
   - [Urban flood mitigation](h4gTH-urban-flood-mitigation.md)
-  - [Water management](h4gTH-water-management.md)
+  - [Remote sensing for water salinity monitoring](h4gTH-Remote-sensing-for-water-salinity-monitoring.md)
   - [Drone flight control](h4gTH-drone-flight-control.md)
 
 - H4G India 2nd Edition
