@@ -28,12 +28,12 @@ Author:
 License: 
 NDA required: 
 
-!> You can get access the datasets in the repository. 
+!> You can get access the datasets on November 15th. 
+
 
 
 
 ## Here are 20 other datasets across different themes accessible in the data repository. 
 
 
-!> You can get access the datasets in the repository. 
-
+!> You can get access the datasets on November 15th. 

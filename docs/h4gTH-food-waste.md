@@ -14,7 +14,7 @@ How can we help <ins>traders</ins> to sell their stock more efficiently by impro
 
 ```
 
-!> You can get access the datasets in the repository. 
+!> You can get access the datasets on November 15th. 
 
 
 

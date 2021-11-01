@@ -1,3 +1,7 @@
 # Challenge
 
 How can we help <ins>tech-aware people </ins> to distinguish real from fake online content (or parts of it: visuals, audio, text) by empowering them with effortless independent tools to spot deepfakes that are meant to pollute or cause harm in their information consumption and especially when there is uncertainty such as Covid-19, political elections, war, economic recession, etc. instead of being manipulated by or unintentionally perpetuating misinformation?
+
+
+
+!> You can get access the datasets on November 15th. 
