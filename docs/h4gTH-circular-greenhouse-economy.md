@@ -10,13 +10,11 @@ exceptional feat might come with drawbacks, and balancing the harm to benefit wo
 ## Can you identify the relation between greenhouses, water quality and biodiversity? 
 
 ```img 
-
-<img width="300px" src="docs\_media\Circular greenport-80.jpg"> 
-
-<img src='/docs/_media/Circular greenport-80.jpg'></img>
-
-
 ```
 
+<img width="auto" src="https://raw.githubusercontent.com/Hackathon-for-Good/Data-Documentation/main/docs/_media/Circular%20greenport-80.jpg"> 
 
-!> You can get access the datasets on November 15th. 
+
+
+
+!> You can get access to the datasets on November 15th. 

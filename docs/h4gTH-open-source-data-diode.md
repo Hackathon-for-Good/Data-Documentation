@@ -4,4 +4,4 @@ How ​can ​we ​help <ins>​decision-​makers (municipality, military offi
 
 
 
-!> You can get access the datasets on November 15th. 
+!> You can get access to the datasets on November 15th. 
