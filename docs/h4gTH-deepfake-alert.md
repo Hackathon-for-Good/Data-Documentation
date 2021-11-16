@@ -31,4 +31,7 @@ video, audio, eye gaze, face movements and more.
 4	kevinhooke	Might give the BASIC #10Liner game contest ano...	human	human
 ```
 
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Deepfake_alert/ --recursive
+```

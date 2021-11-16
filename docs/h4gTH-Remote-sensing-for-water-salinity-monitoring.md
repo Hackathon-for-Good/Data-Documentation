@@ -15,4 +15,7 @@ https://www.satellietdataportaal.nl/?base=brtachtergrondkaart&res=0.5&datemin=27
 https://waterinfo.rws.nl/#!/kaart/zouten/
 
 
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Remote_sensing_for_water_salinity_monitoring/ --recursive
+```

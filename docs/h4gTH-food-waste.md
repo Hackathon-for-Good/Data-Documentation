@@ -12,10 +12,10 @@ How can we help <ins>traders</ins> to sell their stock more efficiently by impro
 
 
 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Food_waste/ --recursive
+```
 
 
-!> You can get access to the datasets on November 15th. 
 
-
-
-## Example

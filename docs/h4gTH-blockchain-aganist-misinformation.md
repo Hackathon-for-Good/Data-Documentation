@@ -15,14 +15,11 @@ ID	The label	the statement	the subject	the speaker	context
 ```
 ### Dataset details 
 
-Source: 
-Type: 
-Creation date: 
-Author:
-License: 
-NDA required: 
 
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Blockchain_aganist_misinformation/ --recursive
+```
 
 
 

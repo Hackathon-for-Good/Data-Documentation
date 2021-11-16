@@ -66,4 +66,7 @@ https://support.microsoft.com/en-us/help/4013405/windows-protect-from-tech-suppo
 ```
 
 
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Combating_horizontal_fraud/ --recursive
+```

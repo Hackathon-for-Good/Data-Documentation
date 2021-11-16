@@ -13,5 +13,7 @@ How ​can ​we ​help ​<ins>city planners and engineers</ins> to design/ada
 Flood information maps is all about probability, starting with high likelihood 
 of once in 10 years flooding that can reach 2-5m depth, to the very unlikely extreme scenario. 
 
-
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Urban_flood_mitigation --recursive
+```

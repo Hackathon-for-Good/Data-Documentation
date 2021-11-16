@@ -17,4 +17,7 @@ exceptional feat might come with drawbacks, and balancing the harm to benefit wo
 
 
 
-!> You can get access to the datasets on November 15th. 
+!> Explore the datasets in the AWS S3 bucket. 
+```AWS CLI
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Water_and_Circular_greenhouse_economy/ --recursive
+```
