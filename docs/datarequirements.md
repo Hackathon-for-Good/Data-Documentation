@@ -25,6 +25,14 @@ aws s3 s3://h4g-hague4th/<challenge-name>/ --recursive --human-readable --summar
 #get files
 aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/<challenge-name> LocalFolder --recursive
 
+or 
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/<challenge-name> LocalFolder 
+
+```
+
+## Data through AWS CLI without AWS account 
+```AWS CLI
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/<challenge-name> LocalFolder --no-sign-request
 ```
 
 ## Data through python script
