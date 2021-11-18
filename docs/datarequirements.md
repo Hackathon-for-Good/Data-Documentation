@@ -20,7 +20,7 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 ```AWS CLI
 #list all files/datasets in the folder
-aws s3 s3://h4g-hague4th/<challenge-name>/ --recursive --human-readable --summarize
+aws s3 ls s3://h4g-hague4th/<challenge-name>/ --recursive --human-readable --summarize
 
 #get files
 aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/<challenge-name> LocalFolder --recursive
