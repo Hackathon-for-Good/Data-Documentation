@@ -20,4 +20,7 @@ exceptional feat might come with drawbacks, and balancing the harm to benefit wo
 !> Explore the datasets in the AWS S3 bucket. 
 ```AWS CLI
 aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Water_and_Circular_greenhouse_economy/ --recursive
+
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/Water_and_Circular_greenhouse_economy/ <local-folder> 
+
 ```

@@ -69,4 +69,6 @@ https://support.microsoft.com/en-us/help/4013405/windows-protect-from-tech-suppo
 !> Explore the datasets in the AWS S3 bucket. 
 ```AWS CLI
 aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Combating_horizontal_fraud/ --recursive
+
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/Combating_horizontal_fraud/ <local-folder> 
 ```

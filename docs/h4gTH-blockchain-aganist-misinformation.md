@@ -18,7 +18,10 @@ ID	The label	the statement	the subject	the speaker	context
 
 !> Explore the datasets in the AWS S3 bucket. 
 ```AWS CLI
-aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Blockchain_aganist_misinformation/ --recursive
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Blockchain_aganist_misinformation/ --recursive 
+
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/Blockchain_aganist_misinformation/ <local-folder> 
+
 ```
 
 

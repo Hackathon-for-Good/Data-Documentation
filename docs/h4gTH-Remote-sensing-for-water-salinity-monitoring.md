@@ -18,4 +18,6 @@ https://waterinfo.rws.nl/#!/kaart/zouten/
 !> Explore the datasets in the AWS S3 bucket. 
 ```AWS CLI
 aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Remote_sensing_for_water_salinity_monitoring/ --recursive
+
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/Remote_sensing_for_water_salinity_monitoring/ <local-folder> 
 ```

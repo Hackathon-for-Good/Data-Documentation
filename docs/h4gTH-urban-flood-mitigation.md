@@ -15,5 +15,7 @@ of once in 10 years flooding that can reach 2-5m depth, to the very unlikely ext
 
 !> Explore the datasets in the AWS S3 bucket. 
 ```AWS CLI
-aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Urban_flood_mitigation --recursive
+aws s3 cp s3://h4g-hague4th/H4G_Hague_4thEdition/Urban_flood_mitigation/ --recursive
+
+aws s3 sync s3://h4g-hague4th/H4G_Hague_4thEdition/Urban_flood_mitigation/ <local-folder> 
 ```
